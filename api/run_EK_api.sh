@@ -1,0 +1,1 @@
+nohup python3 Keywords_Extract_api.py > EK_server.log 2>&1 &

@@ -1,0 +1,607 @@
+[
+    {
+        "id": "5abeafbb5542997ec76fd347",
+        "hop": 2,
+        "type": "comparison",
+        "question": "Between the documentaries The Staten Island Catapult and Frida, en trotjänarinna which came first?",
+        "answer": "Frida, en trotjänarinna",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Staten Island Technical High School",
+                "chunk": [
+                    "Staten Island Technical High School, commonly called Staten Island Tech or SITHS, was founded in 1988.",
+                    " Located in Staten Island, New York City, the school is operated by the New York City Department of Education.",
+                    " In 2005, Staten Island Tech became the only Specialized High School in Staten Island.",
+                    " It consistently ranks among the best schools in New York City in graduation rate, Regents test scores, and attendance.",
+                    " In 2012, SITHS was ranked #1 on the New York Post's list of the city's best high schools, #77 in the nation on U.S. News & World Report's list of Best High Schools, and #23 on their list of the nation's top schools in science, technology, engineering, and math (STEM)."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Staten Island",
+                "chunk": [
+                    "Staten Island is one of the five boroughs of New York City in the U.S. state of New York.",
+                    " In the southwest of the city, Staten Island is the southernmost part of both the city and state of New York, with Conference House Park at the southern tip of the island and the state.",
+                    " The borough is separated from New Jersey by the Arthur Kill and the Kill Van Kull, and from the rest of New York by New York Bay.",
+                    " With a 2016 Census-estimated population of 476,015, Staten Island is the least populated of the boroughs but is the third-largest in area at 58 sqmi .",
+                    " Staten Island is the only borough of New York with a non-Hispanic White majority."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Staten Island Community Board 1",
+                "chunk": [
+                    "Staten Island Community Board 1 is a local government unit of the city of New York, encompassing the Staten Island neighborhoods of Arlington, northern Castleton Corners, Clifton Concord, Elm Park, Fort Wadsworth, northern Graniteville, Grymes Hill, Livingston, Mariners' Harbor, northern Meiers Corners, New Brighton, Port Ivory, Port Richmond, Randall Manor, Rosebank, Staten Island, St. George, Shore Acres, Silver Lake, Stapleton, Sunnyside, Tompkinsville, West Brighton, Westerleigh, and northern Willowbrook.",
+                    " Community Board 1 is essentially the entire area of Staten Island north of the Staten Island Expressway."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Brian C. Bialiy",
+                "chunk": [
+                    "Brian C. Bialiy worked on and appeared in the award-winning documentary The Staten Island Catapult.",
+                    " Starring as the Angry White Man, Brian poignantly portrays a disgruntled and confounded commuter confronted by the 'latest' in cross-borough transportation."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Staten Island Register",
+                "chunk": [
+                    "The Staten Island Register was a weekly newspaper serving the borough of Staten Island in New York City as an independent alternative to other news sources, including the \"Staten Island Advance\".",
+                    " It began publication in 1966 under the ownership of the Sclafani family.",
+                    " Joseph was the Owner.",
+                    " The \"Staten Island Register\" was sold in August 2002 to Elauwit, LLC, a company formed by Daniel McDonough of New Jersey, was sold by McDonough to an investor in 2004, and ceased publication in December 2005."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Staten Island Borough Hall",
+                "chunk": [
+                    "Staten Island Borough Hall is the primary municipal building for the borough of Staten Island in New York City.",
+                    " It is located at 10 Richmond Terrace, next to the Richmond County Courthouse and opposite the Staten Island Ferry Terminal.",
+                    " Staten Island Borough Hall houses the Borough President's office, offices of the Departments of Buildings and T"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Frida, en trotjänarinna",
+                "chunk": [
+                    "Frida, en trotjänarinna is a 1999 documentary film which originally aired over SVT on 3 May 1999.",
+                    " It aired in Denmark on 10 March 2000."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "St. George, Staten Island",
+                "chunk": [
+                    "St. George is a neighborhood on the northeastern tip of Staten Island in New York City, where the Kill Van Kull enters Upper New York Bay.",
+                    " It is the most densely developed neighborhood on Staten Island, and the location of the administrative center for the borough and for the coterminous Richmond County.",
+                    " The Staten Island terminal of the Staten Island Ferry is located here, as well as the northern terminus of the Staten Island Railway.",
+                    " St. George is bordered on the south by the neighborhood of Tompkinsville and on the west by the neighborhood of New Brighton."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Staten Island Catapult",
+                "chunk": [
+                    "The Staten Island Catapult is a 2005 documentary about a disgruntled commuter and his proposal to build a catapult that launches individuals from Staten Island to Downtown Manhattan in 5 minutes.",
+                    " The film was written and directed by independent filmmaker Gregorio Smith."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "College of Staten Island Baseball Complex",
+                "chunk": [
+                    "College of Staten Island Baseball Complex is a stadium in Staten Island, New York.",
+                    " It is primarily used for baseball and was the home of Staten Island Yankees before they moved to Richmond County Bank Ballpark in 2001.",
+                    " The ballpark had a capacity of 2,500 people and opened in 1999.",
+                    " It currently hosts the College of Staten Island Dolphins baseball team."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Staten Island Catapult",
+                "chunk": "The Staten Island Catapult is a 2005 documentary about a disgruntled commuter and his proposal to build a catapult that launches individuals from Staten Island to Downtown Manhattan in 5 minutes.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Frida, en trotjänarinna",
+                "chunk": "Frida, en trotjänarinna is a 1999 documentary film which originally aired over SVT on 3 May 1999.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": []
+    },
+    {
+        "id": "5a8333115542993344745feb",
+        "hop": 2,
+        "type": "compose",
+        "question": "What summit is located in the county who's county seat is Helena?",
+        "answer": "Scapegoat Mountain",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Summit County, Ohio",
+                "chunk": [
+                    "Summit County is an urban county in the U.S. state of Ohio.",
+                    " As of the 2010 census, the population was 541,781 making it the fourth-most populous county in Ohio.",
+                    " Its county seat is Akron.",
+                    " The county was formed on March 3, 1840, from portions of Medina, Portage and Stark Counties.",
+                    " It was named \"Summit County\" because the highest elevation on the Ohio and Erie Canal is located in the county."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Helena–West Helena, Arkansas",
+                "chunk": [
+                    "Helena–West Helena is the county seat of and the largest city within Phillips County, Arkansas, United States.",
+                    " The current city was consolidated, effective January 1, 2006, from the two Arkansas cities of Helena and West Helena.",
+                    " Helena is sited on lowlands between the Mississippi River and the eastern side of Crowley's Ridge.",
+                    " West Helena is located on the western side of Crowley's Ridge, a geographic anomaly in the typically flat Arkansas Delta.",
+                    " The Helena Bridge, one of Arkansas' four Mississippi River bridges, carries U.S. Route 49 across to Mississippi.",
+                    " The combined population of the two cities was 15,012 at the 2000 census and at the 2010 census, the official population was 12,282."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Old Allamakee County Courthouse (Lansing, Iowa)",
+                "chunk": [
+                    "The Old Allamakee County Courthouse, located on 2nd Street in Lansing, is a short-lived former county courthouse of Allamakee County, Iowa.",
+                    " The courthouse was completed in 1861 amid a fight between Lansing and Waukon over which community deserved to be the county seat.",
+                    " Lansing had lost a vote on the county seat to Waukon in 1859, but they won another vote in 1861 after teaming up with the community of Columbus.",
+                    " Waukon built its own courthouse in the meantime, but it failed to win back the county seat in yet another vote in 1864.",
+                    " The county sheriff, a Waukon resident, attempted to seize the county's records from the Lansing courthouse in 1866; however, a posse from Lansing stopped him before he could return to Waukon.",
+                    " The Iowa Supreme Court decided the county seat battle in favor of Waukon the following year; it has remained there since."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Jasper County Community Unit School District 1",
+                "chunk": [
+                    "Jasper County Community Unit School District 1 is a unified school district based in Jasper County's county seat of Newton, Illinois; it is the only school district in the county and is, consequently, the main educational body in all of Jasper County, although it serves portions of Effingham County and Cumberland County as well.",
+                    " This school district is composed of six schools in total; four elementary schools, one junior high school, and one high school.",
+                    " There is also a prekindergarten program run at the high school of the district should parents wish to enroll their children early.",
+                    " Willow Hill Elementary School, which is located in the village of its namesake, serves only kindergarteners; its proximity to the county seat and central position in the county allows its students to dawn from all parts of the county and still have easy access to the elementary school they will attend.",
+                    " The principal of Willow Hill is Dave Parker.",
+                    " Grove Elementary School is located in Island Grove, Illinois, the highest point of elevation in the county.",
+                    " Grove Elementary School educates students from kindergarten to grade six, and it runs a prekindergarten program as well.",
+                    " Craig Carr is the principal of this school.",
+                    " Ste. Marie Elementary School is located in the southern Jasper County village of Ste. Marie, and serves students in grades one through six.",
+                    " The principal of Ste. Marie is David Parker, the principal of Willow Hill Elementary School.",
+                    " Newton Elementary School is located in the county seat of Newton, and serves most of west Jasper County's first through sixth graders under principal Travis Wyatt.",
+                    " The latter three elementary schools feed into Jasper County Junior High School and are taught in the facility during seventh and eighth grade while being supervised by Newton Elementary School principal Travis Wyatt before graduating into Newton Community High School.",
+                    " Students in grades nine through twelve spend their last leg of precollegiate education at this school; their principal is Ruth Kerner.",
+                    " The district superintendent is Ron Alburtus, and the district's mascot is the eagle."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Scapegoat Mountain",
+                "chunk": [
+                    "Scapegoat Mountain is a summit in the Scapegoat Wilderness of Lewis and Clark County, Montana, in the United States.",
+                    " With an elevation of 9186 ft , Scapegoat Mountain is the 443rd highest summit in the state of Montana."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Gardnerville Branch Jail",
+                "chunk": [
+                    "The Gardnerville Branch Jail is a historic jail located at 1440 Courthouse St. in Gardnerville, Nevada.",
+                    " The jail was built in 1910 and served as Douglas County's only jail from 1910 to 1915.",
+                    " Prior to 1910, the only county jail was in Genoa, the county seat; however, since Gardnerville was several miles from Genoa, it resorted to housing prisoners in the local judge's granary.",
+                    " As the granary was considered unfit for holding prisoners, the community petitioned the county to construct a new jail.",
+                    " However, local leaders in Minden, who wanted to move the county seat to their town, protested the move, as they suspected that Gardnerville was attempting to claim the county seat itself.",
+                    " Nonetheless, the county approved the construction of the new jail.",
+                    " The jail housed its first prisoners before construction even finished, as the Genoa jail burned down; one prisoner was briefly chained to a post until the new jail could accommodate him.",
+                    " Once completed, the jail served the county until 1915, when Minden became the county seat and opened its own county jail."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Mount Jefferson (Nevada)",
+                "chunk": [
+                    "Mount Jefferson is the highest mountain in both the Toquima Range and Nye County in Nevada, United States.",
+                    " It is the sixth highest mountain in the state.",
+                    " As the high point of a range which is well separated from other ranges by low basins, Mount Jefferson has a high topographic prominence of 5861 ft .",
+                    " This makes it the most prominent peak in Nye County and the third most prominent peak in Nevada (after Charleston Peak and Wheeler Peak).",
+                    " For similar reasons, it is also the highest mountain for over 90 miles in all directions.",
+                    " It is located about 50 mi northeast of the county seat of Tonopah within the Alta Toquima Wilderness of the Humboldt-Toiyabe National Forest, near the smaller towns of Carvers and Round Mountain.",
+                    " Three distinct summits are located on a broad area of subalpine tundra: North Summit rises to 11,820 ft , Middle Summit to 11,692 ft , and South Summit to 11949 ft .",
+                    " During the Pleistocene, alpine glaciers eroded several cirques east of the summit plateau."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "McRae–Helena, Georgia",
+                "chunk": [
+                    "The city of McRae–Helena, in the U.S. state of Georgia, was formed on January 1, 2015, when the two cities of McRae and Helena were merged.",
+                    " McRae–Helena is the county seat of Telfair County."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Helena, Arkansas",
+                "chunk": [
+                    "Helena is the eastern portion of Helena-West Helena, Arkansas, a city in Phillips County, Arkansas.",
+                    " As of the 2000 census, this portion of the city population was 6,323.",
+                    " Helena was the county seat of Phillips County until January 1, 2006, when it merged its government and city limits with neighboring West Helena."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Lewis and Clark County, Montana",
+                "chunk": [
+                    "Lewis and Clark County is a county located in the U.S. state of Montana.",
+                    " As of the 2010 census, the population was 63,395.",
+                    " Its county seat is Helena, the state capital.",
+                    " The numerical designation for Lewis and Clark County (used in the issuance of the state's license plates) is 5.",
+                    " The county was established in 1865 as Edgerton County, and was renamed \"Lewis and Clark County\" two years later.",
+                    " The present name was given in honor of explorers Lewis and Clark."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Scapegoat Mountain",
+                "chunk": "Scapegoat Mountain is a summit in the Scapegoat Wilderness of Lewis and Clark County, Montana, in the United States.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Lewis and Clark County, Montana",
+                "chunk": " Its county seat is Helena, the state capital.",
+                "sent_id": 2
+            }
+        ],
+        "decomposition": []
+    },
+    {
+        "id": "5ac01bca5542992a796dec8d",
+        "hop": 2,
+        "type": "compose",
+        "question": "What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?",
+        "answer": "Happy Death Day",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Fatal Games",
+                "chunk": [
+                    "Fatal Games (originally known as The Killing Touch and also released as Olympic Nightmare) is a 1984 American slasher film written and directed by Michael Elliott and starring Sally Kirkland, Lynn Banashek, Sean Masterson, Michael O'Leary, Teal Roberts, and Spice Williams-Crosby.",
+                    " The plot consists of a mad slasher wielding a javelin killing off various members of a high school gymnastics team.",
+                    " The film shares many of its plot points with an earlier slasher film, \"Graduation Day\"."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Scouts Guide to the Zombie Apocalypse",
+                "chunk": [
+                    "Scouts Guide to the Zombie Apocalypse is a 2015 American horror comedy film directed by Christopher B. Landon and written by Landon, Carrie Evans, Emi Mochizuki and Lona Williams.",
+                    " The film stars Tye Sheridan, Logan Miller, Joey Morgan, Sarah Dumont and David Koechner.",
+                    " The film was released on October 30, 2015 by Paramount Pictures."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "The Preppie Connection",
+                "chunk": [
+                    "The Preppie Connection is a 2015 American-French crime drama film written and directed by Joseph Castelo and based on the infamous 1984 incident where Choate Rosemary Hall student Derek Oatis, along with a handful of friends, ran a cocaine smuggling operation on the school's campus.",
+                    " The film stars Thomas Mann, Lucy Fry, Sam Page, Bill Sage, Jessica Rothe.",
+                    " The film had world premiere at the Hamptons International Film Festival on October 10, 2015.",
+                    " The film was released on March 18, 2016, in a limited release, and through video on demand by IFC Films."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Jessica Rothe",
+                "chunk": [
+                    "Jessica Rothe (born Jessica Rothenberg, May 28, 1987) is an American actress.",
+                    " She stars in the upcoming 2017 film \"Happy Death Day\".",
+                    " She appeared in 2016's \"La La Land\", ."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Parallels (film)",
+                "chunk": [
+                    "Parallels is a 2015 American science-fiction adventure film, originally conceived as a television pilot, derived from a story by Christopher Leone and Laura Harkcom.",
+                    " Mark Hapka, Jessica Rothe, Eric Jungmann, and Constance Wu star as people who are thrown into alternate Earths that range from subtly different to post-apocalyptic.",
+                    " It was released in March 2015 on the Netflix streaming service.",
+                    " It was announced on November 16, 2016 that Neil Gaiman would be collaborating with Christopher Leone and Albert Kim to adapt the teaser / trailer movie into a TV series, titled \"The Building\"."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Savage Weekend",
+                "chunk": [
+                    "Savage Weekend is a 1979 American slasher film directed by David Paulsen and starring Christopher Allport, David Gale, William Sanderson, and Caitlin O'Heaney.",
+                    " The film follows a woman who retreats to upstate New York with her wealthy boyfriend, her sister, and friend, only to be stalked by a killer in a disfigured mask.",
+                    " Filmed in 1976 as \"The Killer Behind the Mask\", the film was also titled \"The Upstate Murders\" before being released in 1979 by Cannon Films.",
+                    " It has been cited as an early prototype for the slasher film, predating \"Halloween\" and \"Friday the 13th\"."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "My Bloody Valentine 3D",
+                "chunk": [
+                    "My Bloody Valentine 3D is a 2009 American slasher film.",
+                    " It is a reboot of the 1981 Canadian slasher film of the same name.",
+                    " The film was directed and edited by Patrick Lussier, and stars Jensen Ackles, Jaime King, Betsy Rue, and Kerr Smith.",
+                    " The film had a 3D theatrical release; it was released on January 16, 2009 by Lionsgate to generally mixed reviews but nevertheless a box office success.",
+                    " It was released on DVD and Blu-ray on May 19, 2009."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Paranormal Activity: The Marked Ones",
+                "chunk": [
+                    "Paranormal Activity: The Marked Ones is a 2014 American found footage supernatural horror film written and directed by Christopher B. Landon.",
+                    " Released on January 3, 2014 in the United States, it is the spin-off film of the \"Paranormal Activity\" film series.",
+                    " It is also Landon's second directorial film, after \"Burning Palms\"."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Happy Death Day",
+                "chunk": [
+                    "Happy Death Day is an upcoming American slasher film directed by Christopher B. Landon and written by Scott Lobdell.",
+                    " It stars Jessica Rothe and Israel Broussard.",
+                    " The film was produced by Jason Blum through his Blumhouse Productions banner."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Forever My Girl",
+                "chunk": [
+                    "Forever My Girl is a 2017 romance film starring Alex Roe, Jessica Rothe, John Benjamin Hickey, and directed by Bethany Ashton Wolf.",
+                    " It is due for release in October 2017."
+                ]
+            }
+        ],
+        "supporting_facts": [
+             {
+                "id": 0,
+                "title": "Happy Death Day",
+                "chunk": "Happy Death Day is an upcoming American slasher film directed by Christopher B. Landon and written by Scott Lobdell.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Jessica Rothe",
+                "chunk": " She stars in the upcoming 2017 film \"Happy Death Day\".",
+                "sent_id": 1
+            }
+        ],
+        "decomposition": []
+    },
+    {
+        "id": "5a746ddc55429929fddd8423",
+        "hop": 2,
+        "type": "comparison",
+        "question": "Who is older, Thomas Friedman or English author David Lodge?",
+        "answer": "David John Lodge CBE",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Paradise News",
+                "chunk": [
+                    "Paradise News (1991) is a novel by British author David Lodge.",
+                    " The novel explores the notion of paradise on earth and in heaven."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "The British Museum Is Falling Down",
+                "chunk": [
+                    "The British Museum is Falling Down (1965) is a comic novel by British author David Lodge about a 25-year-old poverty-stricken student of English literature who, rather than work on his thesis (entitled \"The Structure of Long Sentences in Three Modern English Novels\") in the reading room of the British Museum, is distracted time and again from his work and who gets into all kinds of trouble instead."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Deaf Sentence",
+                "chunk": [
+                    "Deaf Sentence (2008) is a novel by British author David Lodge."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Therapy (Lodge novel)",
+                "chunk": [
+                    "Therapy (1995) is a novel by British author David Lodge."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Thomas Friedman",
+                "chunk": [
+                    "Thomas Loren Friedman (born July 20, 1953) is an American journalist and author.",
+                    " He is a three time Pulitzer Prize winner."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Out of the Shelter",
+                "chunk": [
+                    "Out of the Shelter (1970) is a novel by British author David Lodge."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Home Truths (novella)",
+                "chunk": [
+                    "Home Truths (1999) is a novella by British author David Lodge.",
+                    " It was first written as a play of the same name, performed at the Birmingham Repertory Theatre in 1998."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Nice Work",
+                "chunk": [
+                    "Nice Work is a 1988 novel by British author David Lodge.",
+                    " It is the final volume of Lodge's \"Campus Trilogy\", after \"Changing Places\" (1975) and \"\" (1984).",
+                    " \"Nice Work\" won the Sunday Express Book of the Year award in 1988"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Thinks ...",
+                "chunk": [
+                    "Thinks ... is a 2001 novel by British author David Lodge."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "David Lodge (author)",
+                "chunk": [
+                    "David John Lodge CBE (born 28 January 1935) is an English author and literary critic.",
+                    " A professor of English Literature at the University of Birmingham until 1987, he is best known for novels satirising academic life, particularly the \"Campus Trilogy\" – \"Changing Places: A Tale of Two Campuses\" (1975), \"\" (1984), and \"Nice Work\" (1988).",
+                    " \"Small World\" and \"Nice Work\" were shortlisted for the Booker Prize.",
+                    " Another major theme is Roman Catholicism, beginning from his first published novel \"The Picturegoers\" (1960).",
+                    " Lodge has also written several television screenplays and three stage plays.",
+                    " Since retiring from academia, he has continued to publish literary criticism, which often draws on his experience as a practising novelist and scriptwriter."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Thomas Friedman",
+                "chunk": "Thomas Loren Friedman (born July 20, 1953) is an American journalist and author.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "David Lodge (author)",
+                "chunk": "David John Lodge CBE (born 28 January 1935) is an English author and literary critic.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": []
+    },
+    {
+        "id": "5a745a2955429929fddd83f8",
+        "hop": 2,
+        "type": "compose",
+        "question": "How many members does the Tennessee Volunteers football team's Conference have?",
+        "answer": "fourteen members",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "1983 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1983 Tennessee Volunteers Tennessee Volunteers football team (variously \"Tennessee\", \"UT\" or the \"Vols\") represented the University of Tennessee in the 1983 NCAA Division I-A football season.",
+                    " Playing as a member of the Southeastern Conference (SEC), the team was led by head coach Johnny Majors, in his seventh year, and played their home games at Neyland Stadium in Knoxville, Tennessee.",
+                    " They finished the season with a record of nine wins and three losses (9–3 overall, 4–2 in the SEC) and a victory over Maryland in the Florida Citrus Bowl.",
+                    " The Volunteers offense scored 282 points while the defense allowed 165 points."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "1985 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1985 Tennessee Volunteers football team (variously \"Tennessee\", \"UT\" or the \"Vols\") represented the University of Tennessee in the 1985 NCAA Division I-A football season.",
+                    " Playing as a member of the Southeastern Conference (SEC), the team was led by head coach Johnny Majors, in his ninth year, and played their home games at Neyland Stadium in Knoxville, Tennessee.",
+                    " They finished the season with a record of nine wins, one loss and two ties (9–1–2 overall, 5–1 in the SEC), as SEC champions and with a victory over Miami in the 1986 Sugar Bowl.",
+                    " The Volunteers offense scored 325 points while the defense allowed 140 points.",
+                    " At season’s end, the Volunteers ranked fourth in both the AP Poll and the Coaches' Poll."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "1896 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1896 Tennessee Volunteers football team represented the University of Tennessee in the 1896 college football season.",
+                    " It was the first official Tennessee Volunteers football team since 1893.",
+                    " The 1896 Vols went undefeated at 4–0 for the first winning season in school history.",
+                    " This was also the Tennessee's first season in the Southern Intercollegiate Athletic Association (SIAA), though they did not play a conference opponent."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Tennessee Volunteers football statistical leaders",
+                "chunk": [
+                    "The Tennessee Volunteers football statistical leaders are individual statistical leaders of the Tennessee Volunteers football program in various categories, including passing, rushing, receiving, total offense, defensive stats, and kicking.",
+                    " Within those areas, the lists identify single-game, single-season, and career leaders.",
+                    " The Volunteers represent University of Tennessee in the NCAA's Southeastern Conference."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "1891 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1891 Tennessee Volunteers football team represented the University of Tennessee in the 1891 season.",
+                    " This was the first Tennessee Volunteers football team.",
+                    " They traveled on Thanksgiving Day to Chattanooga, Tennessee to face Sewanee.",
+                    " They had no head coach and were mainly an intramural team."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Georgia–Tennessee football rivalry",
+                "chunk": [
+                    "The Georgia–Tennessee football rivalry is an American college football rivalry between the Georgia Bulldogs football team of the University of Georgia and Tennessee Volunteers football team of the University of Tennessee.",
+                    " The series is currently 23–22–2 Tennessee.",
+                    " Both teams are founding members of the Southeastern Conference (SEC).",
+                    " Tennessee and Georgia are the second and third winningest football programs in SEC history, behind only Alabama."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "1938 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1938 Tennessee Volunteers football team represented the University of Tennessee in the 1938 season.",
+                    " Head coach Robert Neyland fielded his third team at Tennessee after returning from active duty in the United States Army.",
+                    " The 1938 Tennessee Volunteers won the school's first national championship and are regarded as one of the greatest teams in SEC and NCAA history."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "1969 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1969 Tennessee Volunteers football team (variously \"Tennessee\", \"UT\" or the \"Vols\") represented the University of Tennessee in the 1969 college football season.",
+                    " Playing as a member of the Southeastern Conference (SEC), the team was led by head coach Doug Dickey, in his sixth year, and played their home games at Neyland Stadium in Knoxville, Tennessee.",
+                    " They finished the season with a record of nine wins and two losses (9–2 overall, 5–1 in the SEC) and a loss against Florida in the ."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "1899 Tennessee Volunteers football team",
+                "chunk": [
+                    "The 1899 Tennessee Volunteers football team represented the University of Tennessee in the 1899 Southern Intercollegiate Athletic Association football season.",
+                    " They were the first UT team to have a head coach.",
+                    " J. A. Pierce helmed the team in 1899 and 1900.",
+                    " The 1899 Tennessee Volunteers won six games and lost two."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Southeastern Conference",
+                "chunk": [
+                    "The Southeastern Conference (SEC) is an American college athletic conference whose member institutions are located primarily in the Southern part of the United States.",
+                    " Its fourteen members include the flagship public universities of ten states, three additional public land grant universities, and one private research university.",
+                    " The conference is headquartered in Birmingham, Alabama.",
+                    " The SEC participates in the National Collegiate Athletic Association (NCAA) Division I in sports competitions; for football, it is part of the Football Bowl Subdivision (FBS), formerly known as Division I-A."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "1969 Tennessee Volunteers football team",
+                "chunk": " Playing as a member of the Southeastern Conference (SEC), the team was led by head coach Doug Dickey, in his sixth year, and played their home games at Neyland Stadium in Knoxville, Tennessee.",
+                "sent_id": 1
+            },
+            {
+                "id": 1,
+                "title": "Southeastern Conference",
+                "chunk": " Its fourteen members include the flagship public universities of ten states, three additional public land grant universities, and one private research university.",
+                "sent_id": 1
+            }
+        ],
+        "decomposition": []
+    }
+]

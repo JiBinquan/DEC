@@ -1,0 +1,591 @@
+[
+    {
+        "id": "d1915e7a08d811ebbd9cac1f6bf848b6",
+        "hop": 2,
+        "type": "comparison",
+        "question": "Who was born first out of Jesús Alejandro Gallardo and Kaleigh Quennec?",
+        "answer": "Jesús Alejandro Gallardo",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Kaleigh Quennec",
+                "chunk": [
+                    "Kaleigh Quennec( born 15 February 1998) is a Swiss ice hockey player for Montreal Carabins and the Swiss national team.",
+                    "She represented Switzerland at the 2019 IIHF Women's World Championship."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Henry Moore (cricketer)",
+                "chunk": [
+                    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Jesús Alejandro Gallardo",
+                "chunk": [
+                    "Jesús Alejandro Gallardo Durazo( born 16 January 1988) is a former football goalkeeper.",
+                    "He last played for Correcaminos UAT in the Ascenso MX."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Carlos de Jesús Alejandro",
+                "chunk": [
+                    "Carlos de Jesús Alejandro( born 4 November 1965) is a Mexican politician affiliated with the PRD.",
+                    "He currently serves as Deputy of the LXII Legislature of the Mexican Congress representing Guerrero."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Wale Adebanwi",
+                "chunk": [
+                    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Hartley Lobban",
+                "chunk": [
+                    "Hartley W Lobban (9 May 1926 – 15 October 2004) was a Jamaican-born first-class cricketer who played 17 matches for Worcestershire in the early 1950s."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Jesús Palacios",
+                "chunk": [
+                    "Jesús Alejandro Palacios Olague( born 7 February 1983 in Monterrey, Nuevo León, Mexico) is a retired footballer, who played for Club Universidad de Guadalajara in the Liga MX."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Jesús Alejandro Cruz Gutiérrez",
+                "chunk": [
+                    "Jesús Alejandro Cruz Gutiérrez( born 26 November 1951) is a Mexican politician from the Institutional Revolutionary Party.",
+                    "From 2000 to 2003 he served as Deputy of the LVIII Legislature of the Mexican Congress representing Chiapas."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Jesús Alejandro Gómez (footballer, born 2002)",
+                "chunk": [
+                    "Jesús Alejandro Gómez Molina( born 2002) is a Mexican footballer that currently plays for Atlas F.C. as a center back."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Jesús Dautt",
+                "chunk": [
+                    "Jesús Alejandro Dautt Ramírez( born 3 March 1990) is a Mexican professional footballer who plays for Tapachula of Ascenso MX on loan from Monterrey."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Jesús Alejandro Gallardo",
+                "chunk": "Jesús Alejandro Gallardo Durazo( born 16 January 1988) is a former football goalkeeper.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Kaleigh Quennec",
+                "chunk": "Kaleigh Quennec( born 15 February 1998) is a Swiss ice hockey player for Montreal Carabins and the Swiss national team.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": [
+            "Jesús Alejandro Gallardo date of birth 16 January 1988",
+            "Kaleigh Quennec date of birth 15 February 1998"
+        ]
+    },
+    {
+        "id": "c8068f4a0baf11ebab90acde48001122",
+        "hop": 2,
+        "type": "inference",
+        "question": "Who is the paternal grandfather of Prince William, Duke Of Cumberland?",
+        "answer": "George I of Great Britain",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Prince William Frederick, Duke of Gloucester and Edinburgh",
+                "chunk": [
+                    "Prince William, Duke of Gloucester and Edinburgh,( William Frederick; 15 January 1776 – 30 November 1834) was a great- grandson of King George II and nephew and son-in- law of King George III of the United Kingdom."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Prince William Henry, Duke of Gloucester and Edinburgh",
+                "chunk": [
+                    "Prince William, Duke of Gloucester and Edinburgh,( William Henry; 25 November 1743 – 25 August 1805), was a grandson of King George II and a younger brother of King George III of the United Kingdom."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "William Montagu Douglas Scott, 6th Duke of Buccleuch",
+                "chunk": [
+                    "William Henry Walter Montagu Douglas Scott, 6th Duke of Buccleuch and 8th Duke of Queensberry( 9 September 1831 – 5 November 1914) was a Scottish Member of Parliament and peer.",
+                    "He was the paternal grandfather of Princess Alice, Duchess of Gloucester, and the maternal great- grandfather of Prince William of Gloucester and Prince Richard, Duke of Gloucester.",
+                    "He was a paternal great- great- grandfather to Sarah, Duchess of York."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Prince William, Duke of Cumberland",
+                "chunk": [
+                    "Prince William Augustus, Duke of Cumberland, (26 April 1721 – 31 October 1765), was the third and youngest son of King George II of Great Britain and Ireland and his wife,\nCaroline of Ansbach.",
+                    "He was Duke of Cumberland from 1726.",
+                    "He is best remembered for his role in putting down the Jacobite Rising at the Battle of Culloden in 1746, which made him immensely popular throughout Britain.",
+                    "He is often referred to by the nickname given to him by his Tory opponents: 'Butcher' Cumberland.",
+                    "Despite his triumph at Culloden, he had a largely unsuccessful military career.",
+                    "Between 1748 and 1755 he attempted to enact a series of army reforms that were resisted by the opposition and by the army itself.",
+                    "Following the Convention of Klosterzeven in 1757, he never again held active military command and switched his attentions to politics and horse racing."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "George II of Great Britain",
+                "chunk": [
+                    "George II (George Augustus; ; 30 October / 9 November 1683 – 25 October 1760) was King of Great Britain and Ireland, Duke of Brunswick-Lüneburg (Hanover) and a prince-elector of the Holy Roman Empire from 11 June 1727",
+                    "(O.S.) until his death in 1760.",
+                    "George is the most recent British monarch born outside Great Britain: he was born and brought up in northern Germany.",
+                    "The Act of Settlement 1701 and the Acts of Union 1707 positioned his grandmother, Sophia of Hanover, and her Protestant descendants to inherit the British throne.",
+                    "After the deaths of Sophia and Anne, Queen of Great Britain, in 1714, his father, the Elector of Hanover, became George I of Great Britain.",
+                    "In the first years of his father's reign as king, George was associated with opposition politicians, until they rejoined the governing party in 1720.",
+                    "As king from 1727, George exercised little control over British domestic policy, which was largely controlled by the Parliament of Great Britain.",
+                    "As elector, he spent twelve summers in Hanover, where he had more direct control over government policy.",
+                    "He had a difficult relationship with his eldest son, Frederick, who supported the parliamentary opposition.",
+                    "During the War of the Austrian Succession, George participated at the Battle of Dettingen in 1743, and thus became the last British monarch to lead an army in battle.",
+                    "In 1745 supporters of the Catholic claimant to the British throne, James Francis Edward Stuart (\"The Old Pretender\"), led by James's son Charles Edward Stuart (\"The Young Pretender\" or \"Bonnie Prince Charlie\"), attempted and failed to depose George in the last of the Jacobite rebellions.",
+                    "Frederick died unexpectedly in 1751, nine years before his father, so George II was ultimately succeeded by his grandson, George III.",
+                    "For two centuries after George II's death, history tended to view him with disdain, concentrating on his mistresses, short temper, and boorishness.",
+                    "Since then, reassessment of his legacy has led scholars to conclude that he exercised more influence in foreign policy and military appointments than previously thought."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Princess Charlotte of Cambridge",
+                "chunk": [
+                    "Princess Charlotte of Cambridge( Charlotte Elizabeth Diana; born 2 May 2015) is a member of the British royal family.",
+                    "She is the second child and only daughter of Prince William, Duke of Cambridge, and Catherine, Duchess of Cambridge.",
+                    "She is fourth in the line of succession to the British throne."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "John Spencer, 8th Earl Spencer",
+                "chunk": [
+                    "Edward John Spencer, 8th Earl Spencer,( 24 January 1924 – 29 March 1992), styled Viscount Althorp until June 1975, was a British peer and nobleman.",
+                    "He was the father of Diana, Princess of Wales, which makes him the maternal grandfather of Prince William, Duke of Cambridge, and Prince Harry, Duke of Sussex, respectively second and sixth in the line of succession to the British throne."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Prince Louis of Cambridge",
+                "chunk": [
+                    "Prince Louis of Cambridge( Louis Arthur Charles; born 23 April 2018) is a member of the British royal family.",
+                    "He is the third and youngest child and second son of Prince William, Duke of Cambridge, and Catherine, Duchess of Cambridge.",
+                    "He is fifth in the line of succession to the British throne."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Charles Spencer, 9th Earl Spencer",
+                "chunk": [
+                    "Charles Edward Maurice Spencer, 9th Earl Spencer,( born 20 May 1964), styled Viscount Althorp between 1975 and 1992, is a British nobleman, peer, author, journalist, and broadcaster.",
+                    "He is the younger brother of Diana, Princess of Wales, which makes him the maternal uncle of Prince William, Duke of Cambridge, and Prince Harry, Duke of Sussex."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Dorothy Clement",
+                "chunk": [
+                    "Dorothy Clement( c. 1715 – c. 1739) was the mistress of Edward Walpole and mother of his four children, including Maria Walpole, who became Duchess of Gloucester and Edinburgh upon her marriage to Prince William Henry, Duke of Gloucester and Edinburgh.",
+                    "Daughter of a Darlington postmaster, she is an ancestor of Prince William, Duke of Cambridge, through her granddaughter Lady Anna Seymour."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Prince William, Duke of Cumberland",
+                "chunk": "Prince William Augustus, Duke of Cumberland, (26 April 1721 – 31 October 1765), was the third and youngest son of King George II of Great Britain and Ireland and his wife,\nCaroline of Ansbach.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "George II of Great Britain",
+                "chunk": "After the deaths of Sophia and Anne, Queen of Great Britain, in 1714, his father, the Elector of Hanover, became George I of Great Britain.",
+                "sent_id": 4
+            }
+        ],
+        "decomposition": [
+            "Prince William Augustus, Duke of Cumberland father George II",
+            "George II of Great Britain father George I of Great Britain"
+        ]
+    },
+    {
+        "id": "01588f7208be11ebbd8aac1f6bf848b6",
+        "hop": 4,
+        "type": "bridge_comparison",
+        "question": "Which film has the director born later, Jungle Ka Jawahar or Frankenstein'S Daughter?",
+        "answer": "Frankenstein'S Daughter",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Richard E. Cunha",
+                "chunk": [
+                    "Richard Earl Cunha( March 4, 1922, Honolulu, Hawaii- September 18, 2005, Oceanside, California) was an American cinematographer and film director.",
+                    "Cunha's father was Albert\" Sonny\" Cunha, an American songwriter.",
+                    "During World War II, Cunha served as an aerial photographer for the military, and then was transferred to Hal Roach Studios in Los Angeles, where he made military training films, newsreels and documentaries.",
+                    "After the war, Cunha worked as a TV photographer, eventually working his way to up director of photography for the TV shows\" Death Valley Days\" and\" Branded\".",
+                    "Cunha wrote and directed only a handful of films, with his four best- known ones all being low- budget, sci fi-horror B-movies released in 1958 by Astor Pictures --\" Giant from the Unknown She Demons Missile to the Moon\", and\" Frankenstein's Daughter\".",
+                    "In an interview with\" The Astounding B Monster Archive\", Cunha said his low- budget films were completed for around$ 65,000 apiece and took about six days each to shoot."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Yolonda Ross",
+                "chunk": [
+                    "Yolonda Ross is an American character actress, writer and director born (31 July 1974)."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Frankenstein's Daughter",
+                "chunk": [
+                    "Frankenstein's Daughter is an independently made 1958 American black- and- white science fiction/ horror film drama, produced by Marc Frederic and George Fowley, directed by Richard E. Cunha, that stars John Ashley, Sandra Knight, Donald Murphy, and Sally Todd.",
+                    "The film was distributed by Astor Pictures and was released theatrically as a double feature with\" Missile to the Moon\".",
+                    "The film, set in mid-20th century America, tells the story of the creation of the first female\" Frankenstein's monster\"."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Jungle Ka Jawahar",
+                "chunk": [
+                    "Jungle Ka Jawahar (Hero of the Forest) is a 1953 Hindi action adventure film directed by Homi Wadia and produced by Basant Pictures.",
+                    "The story was written by Boman Shroff and the special effects were by Babubhai Mistry.",
+                    "Having played daredevil roles starting in the 1930s, Fearless Nadia was still playing lead action roles in the 1950s and continued to act till 1968.",
+                    "The film starred Fearless Nadia, John Cawas, Leela Kumari, Shyam Sunder and Shapoor Aga.",
+                    "The story revolves around a doctor living in the jungle with his daughter, surrounded by wild tribal people who are ruled by the jungle queen, Sheena."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Homi Wadia",
+                "chunk": [
+                    "Homi Wadia( 22 May 1911 – 10 December 2004) was an Indian film director and producer in Bollywood( Hindi cinema).",
+                    "He was the co-founder of Wadia Movietone productions, established in 1933 and later after the closure of Wadiatone, he founded Basant Pictures in 1942.",
+                    "In a career spanning five decades, he directed over 40 films, including\" Hunterwali\"( 1935),\" Miss Frontier Mail\"( 1936),\" Diamond Queen\"( 1940) and fantasy film\" Hatim Tai\"( 1956).",
+                    "He was also a founding member of the Film& Television Producers Guild of India, established in 1954.",
+                    "Homi Wadia was married to actress and stunt woman Fearless Nadia.",
+                    "Homi was the younger brother of JBH Wadia, who was himself a movie director."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Jacques Décombe",
+                "chunk": [
+                    "Jacques Décombe is a French author, actor and director born in 1953."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Fred Roy Krug",
+                "chunk": [
+                    "Fred R. Krug is an American film and television producer- director born in Bern, Switzerland."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "W. Augustus Barratt",
+                "chunk": [
+                    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Claude Weisz",
+                "chunk": [
+                    "Claude Weisz is a French film director born in Paris."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Sepideh Farsi",
+                "chunk": [
+                    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Jungle Ka Jawahar",
+                "chunk": "Jungle Ka Jawahar (Hero of the Forest) is a 1953 Hindi action adventure film directed by Homi Wadia and produced by Basant Pictures.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Frankenstein's Daughter",
+                "chunk": "Frankenstein's Daughter is an independently made 1958 American black- and- white science fiction/ horror film drama, produced by Marc Frederic and George Fowley, directed by Richard E. Cunha, that stars John Ashley, Sandra Knight, Donald Murphy, and Sally Todd.",
+                "sent_id": 0
+            },
+            {
+                "id": 2,
+                "title": "Homi Wadia",
+                "chunk": "Homi Wadia( 22 May 1911 – 10 December 2004) was an Indian film director and producer in Bollywood( Hindi cinema).",
+                "sent_id": 0
+            },
+            {
+                "id": 3,
+                "title": "Richard E. Cunha",
+                "chunk": "Richard Earl Cunha( March 4, 1922, Honolulu, Hawaii- September 18, 2005, Oceanside, California) was an American cinematographer and film director.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": [
+            "Jungle Ka Jawahar director Homi Wadia",
+            "Frankenstein's Daughter director Richard E. Cunha",
+            "Homi Wadia date of birth 22 May 1911",
+            "Richard E. Cunha date of birth March 4, 1922"
+        ]
+    },
+    {
+        "id": "14522a9f087c11ebbd69ac1f6bf848b6",
+        "hop": 2,
+        "type": "comparison",
+        "question": "Who was born later, Gustavo Machado Morales or Victor Yates?",
+        "answer": "Victor Yates",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Darcy Lima",
+                "chunk": [
+                    "Darcy Gustavo Machado Vieira Lima( born 22 May 1962) is a Brazilian chess player.",
+                    "FIDE awarded him the International Master title in 1989 and the Grandmaster title in 1997.",
+                    "Also a chess official, Lima was granted the titles of FIDE Trainer in 2010 and International Organizer in 2013.",
+                    "He is the president of the Brazilian Chess Confederation."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "João Victor (footballer, born 1994)",
+                "chunk": [
+                    "João Victor Santos Sá, known as João Victor or Victor Sá (born 27 May 1994) is a Brazilian footballer, who plays for Bundesliga club VfL Wolfsburg as a left winger."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "W. Augustus Barratt",
+                "chunk": [
+                    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Victor Wolfvoet (II)",
+                "chunk": [
+                    "Victor Wolfvoet( II) or Victor Wolfvoet the Younger( 1612 – 1652), was a Flemish art dealer and painter of history and allegorical paintings.",
+                    "His artistic output was heavily influenced by Peter Paul Rubens."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Victor Yates",
+                "chunk": [
+                    "Victor Francis Yates( 19 April 1900 – 19 January 1969) was a British pacifist Labour Party politician.",
+                    "He was the Member of Parliament( MP) for Birmingham, Ladywood from the July 1945 general election, when he beat the Unionist incumbent, until his death in January 1969 at the age of 68.",
+                    "He had had a heart attack in the House of Commons in the preceding October.",
+                    "In the subsequent by-election the seat was gained by the Liberal candidate Wallace Lawler.",
+                    "At Yates's cremation, his pallbearers were Roy Hattersley, Denis Howell, Roy Jenkins and Brian Walden.",
+                    "The National Portrait Gallery holds a number of photographic portraits of him, including several by Walter Stoneman.",
+                    "The Victor Yates Care Home in Ladywood is named in his honour."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Victor Rodrigues da Silva",
+                "chunk": [
+                    "Victor Rodrigues da Silva or Victor da Silva( born February 10, 1976 in Brazil) is a Brazilian footballers who currently plays in defensive midfielder and defender for Persisko Merangin."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Vittore Trincavelli",
+                "chunk": [
+                    "Vittore Trincavelli( also\" Vettore\" or\" Victor Trincavelli\"; 1496 – 1568) was an eminent Italian physician, but is most famous as the editor of some of the first editions of the Greek classics."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Gustavo Machado",
+                "chunk": [
+                    "Gustavo Machado is a Brazilian professional mixed martial artist who has competed for the International Fight League, Shooto, DEEP, RINGS, Pancrase and King of the Cage promotions.",
+                    "Machado was also briefly a member of the IFL New York Pitbulls."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Catherine I of Russia",
+                "chunk": [
+                    "Catherine I( born, later known as Marta Samuilovna Skavronskaya; –) was the second wife of Peter the Great and Empress of Russia from 1725 until her death."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Gustavo Machado Morales",
+                "chunk": [
+                    "Gustavo Machado Morales( 19 July 1898 – 17 July 1983) was a Venezuelan politician and journalist, editor of the Communist Party of Venezuela's newspaper from 1948 to 1983( with interruptions for exile and imprisonment) and President of the party from 1971 to 1983.",
+                    "As a leading Communist, he spent a substantial part of his life in exile or in prison.",
+                    "He was a founder member of the Venezuelan Revolutionary Party in February 1927, a forerunner of the Communist Party of Venezuela( founded in 1931).",
+                    "He was a member of the Generation of 1928- activists opposing the dictatorship of Juan Vicente Gómez.",
+                    "During the 1945- 8 democratic period he was a member of the Constituent Assembly and a candidate in the 1947 presidential election for the Communist Party.",
+                    "He was elected to the Venezuelan Chamber of Deputies four times, serving there for fifteen years."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Gustavo Machado Morales",
+                "chunk": "Gustavo Machado Morales( 19 July 1898 – 17 July 1983) was a Venezuelan politician and journalist, editor of the Communist Party of Venezuela's newspaper from 1948 to 1983( with interruptions for exile and imprisonment) and President of the party from 1971 to 1983.",
+                "sent_id": 0
+            },
+            {
+                "id": 1,
+                "title": "Victor Yates",
+                "chunk": "Victor Francis Yates( 19 April 1900 – 19 January 1969) was a British pacifist Labour Party politician.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": [
+            "Gustavo Machado Morales date of birth 19 July 1898",
+            "Victor Yates date of birth 19 April 1900"
+        ]
+    },
+    {
+        "id": "c8c5f3ee0baf11ebab90acde48001122",
+        "hop": 2,
+        "type": "inference",
+        "question": "Who is the maternal grandmother of Siemowit V Of Masovia?",
+        "answer": "Uliana of Tver",
+        "chunks": [
+            {
+                "id": 0,
+                "title": "Alexandra of Lithuania",
+                "chunk": [
+                    "Alexandra (died 20 April 1434 in Płock) was the youngest daughter of Algirdas, Grand Duke of Lithuania, and his second wife, Uliana of Tver.",
+                    "Though Alexandra's exact date of birth is not known, it is thought that she was born in the late 1360s or early 1370s.",
+                    "In 1387, she married Siemowit IV, Duke of Masovia, and bore him thirteen children."
+                ]
+            },
+            {
+                "id": 1,
+                "title": "Amelia of Masovia",
+                "chunk": [
+                    "Amelia of Masovia( pl:\" Amelia mazowiecka\"; 1397/98- after 17 May 1434), was a Polish princess member of the House of Piast in the Masovian branch.",
+                    "She was the fourth daughter of Siemowit IV, Duke of Masovia and Alexandra, a daughter of Algirdas, Grand Duke of Lithuania and sister of King Władysław II Jagiełło of Poland."
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Sophia of Masovia",
+                "chunk": [
+                    "Sophia of Masovia( 1497/1498- before 11 March 1543) was a Princess of Masovia, daughter of Konrad III Rudy, Duke of Masovia and his wife Anna Radziwiłł.",
+                    "She was a member of the House of Piast.",
+                    "On 17 September 1520 in Warsaw, Sophia was married by proxy to Stephen VII Báthory.",
+                    "On 17 January 1521, Sophia and her entourage went to Hungary, where in February there was a formal marriage.",
+                    "The couple had three children:",
+                    "Anna, Stephen and Klara; however, other sources claim that Klara was the couple's only child.",
+                    "Klara was engaged to Carl, Duke of Münsterberg, but died in 1535, before the marriage took place.",
+                    "After the death of Stephen in 1530, Sophia was married to Croatian magnate Louis Pekry.",
+                    "Sophia's second marriage was childless.",
+                    "She then died sometime before 11 March 1543.",
+                    "Sophia had three siblings: Stanislaus I of Masovia, Janusz III of Masovia and Anna of Masovia, both her brothers died childless and so Anna and Sophia were the last Masovian Piasts.",
+                    "Soon after Janusz's death, the Duchy of Masovia was annexed into the kingdom of Poland, despite resistance from some of the Masovian nobility.",
+                    "They tried to retain their independence and argued that the Duchy should be inherited by the female relatives( such as Anna or Sophia).",
+                    "The Polish king refused to recognize their demands.",
+                    "Anna was made titular Duchess of Masovia."
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Hubba bint Hulail",
+                "chunk": [
+                    "Hubba bint Hulail was the grandmother of Hashim ibn' Abd Manaf, thus the great- great- great- grandmother of the Islamic\" Nabī\"( Prophet) Muhammad ibn Abdullah."
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Siemowit V of Masovia",
+                "chunk": [
+                    "Siemowit V of Rawa (pl: \"Siemowit V rawski\"; 1389 - 17 February 1442), was a Polish prince member of the House of Piast from the Masovian branch.",
+                    "He was a Duke of Rawa Mazowiecka, Płock, Sochaczew, Gostynin, Płońsk, Wizna and Belz during 1426-1434 jointly with his brothers, and after the division of the paternal inheritance between him and his brothers in 1434, sole ruler over Rawa Mazowiecka, Gostynin and Sochaczew.",
+                    "He was the eldest son of Siemowit IV, Duke of Masovia and Alexandra of Lithuania, daughter of Algirdas."
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Margaret of Masovia",
+                "chunk": [
+                    "Margaret of Masovia( before 1358 – 14 May 1388/4 April 1396) was Duchess of Pomerania and Brzeg, by her marriages to Casimir IV, Duke of Pomerania and then to Henryk VIII with a Scar.",
+                    "She was a member of the House of Piast.",
+                    "Margaret was a daughter of Siemowit III of Masovia and his wife Euphemia of Opawa.",
+                    "Her paternal grandparents were Trojden I of Masovia and his wife Maria, daughter of Yuri I of Galicia and Euphemia of Kuyavia."
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Siemowit III, Duke of Masovia",
+                "chunk": [
+                    "Siemowit III of Masovia( his name also rendered Ziemowit; – 1381) was a prince of Masovia and a co-regent( with his brother Casimir I of Warsaw) of the lands of Warsaw, Czersk, Rawa, Gostynin and other parts of Masovia."
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Hedwig of Masovia",
+                "chunk": [
+                    "Hedwig of Masovia( ca. 1392 – after 19 February 1439), was a Polish princess, member of the House of Piast in the Masovian branch.",
+                    "She was the eldest daughter of Siemowit IV, Duke of Masovia and Alexandra, a daughter of Algirdas, Grand Duke of Lithuania and sister of King Władysław II Jagiełło of Poland."
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Konrad II of Masovia",
+                "chunk": [
+                    "Konrad II of Czersk( pl:\" Konrad II czerski\"; c. 1250 – 24 June/ 21 October 1294), was a Polish prince member of the House of Piast, Duke of Masovia during 1264- 1275 jointly with his brother, since 1275 sole ruler over Czersk and Duke of Sandomierz during 1289.",
+                    "He was the eldest son of Siemowit I of Masovia and Pereyaslava, a daughter of Prince Daniel of Halych."
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Siemowit I of Masovia",
+                "chunk": [
+                    "Siemowit I of Masovia( c. 1224/28 – 23 June 1262), was a Polish prince member of the House of Piast, Duke of Czersk during 1247- 1248, Duke of Masovia( except Dobrzy ń) during 1248- 1262, ruler over Sieradz during 1259- 1260.",
+                    "He was the sixth son of Konrad I of Masovia and his wife Agafia of Rus.",
+                    "He was named after his older brother Siemowit, who died young in 1224."
+                ]
+            }
+        ],
+        "supporting_facts": [
+            {
+                "id": 0,
+                "title": "Siemowit V of Masovia",
+                "chunk": "He was the eldest son of Siemowit IV, Duke of Masovia and Alexandra of Lithuania, daughter of Algirdas.",
+                "sent_id": 2
+            },
+            {
+                "id": 1,
+                "title": "Alexandra of Lithuania",
+                "chunk": "Alexandra (died 20 April 1434 in Płock) was the youngest daughter of Algirdas, Grand Duke of Lithuania, and his second wife, Uliana of Tver.",
+                "sent_id": 0
+            }
+        ],
+        "decomposition": [
+            "Siemowit V of Masovia mother Alexandra of Lithuania",
+            "Alexandra of Lithuania mother Uliana of Tver"
+        ]
+    }
+]
